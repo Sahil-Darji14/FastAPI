@@ -1,0 +1,5 @@
+x = int(input("enter number: "))
+# y = int(input("enter number: "))
+# z = int(input("enter number: "))
+# ans=(x,y,z)
+# print(max(ans))

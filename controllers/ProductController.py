@@ -6,6 +6,9 @@ import productcontroller
 app = FastAPI()
 
 
+
+
+
 @app.post("/product")
 def create_product(product: Product, response: Response):
 
